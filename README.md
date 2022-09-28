@@ -44,8 +44,9 @@
 
 
 ### Screenshots
-<img align="left" alt="Coding" width="550" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/Weather.png">
-<img align="left" alt="Coding" width="250" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/MobVersion.jpeg">
+<img align="left" alt="Coding" width="550" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-L.png">
+<img align="left" alt="Coding" width="250" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-T.png">
+<img align="left" alt="Coding" width="150" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-M.png">
 
 
 
