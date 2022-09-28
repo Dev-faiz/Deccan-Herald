@@ -11,7 +11,7 @@
 
 
 - To create something challenging and expirience how to produce a website.
-- To leaner how to call API's and manipulate it.
+-You can watch news and register yourself as an user.
 - Learned how to implement html css and js combination.
 
 ### Tech Stack
