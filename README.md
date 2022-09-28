@@ -11,7 +11,7 @@
 
 
 - To create something challenging and expirience how to produce a website.
-- You can watch news and register yourself as an user.
+- To leaner how to call API's and manipulate it.
 - Learned how to implement html css and js combination.
 
 ### Tech Stack
@@ -44,10 +44,8 @@
 
 
 ### Screenshots
-<img align="left" alt="Coding" width="550" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-L.png">
-<img align="left" alt="Coding" width="250" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-T.png">
-<img align="left" alt="Coding" width="150" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-M.png">
-
+<img align="left" alt="Coding" width="550" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/Weather.png">
+<img align="left" alt="Coding" width="250" src="https://github.com/Dev-faiz/WeatherApP/blob/main/pic/MobVersion.jpeg">
 
 
 
