@@ -1,7 +1,7 @@
 # Deccan-Herald
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/Assets/DH.jpg">
 
 
 ## Description
@@ -44,9 +44,9 @@
 
 
 ### Screenshots
-<img align="left" alt="Coding" width="550" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-L.png">
-<img align="left" alt="Coding" width="250" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-T.png">
-<img align="left" alt="Coding" width="150" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/DH-M.png">
+<img align="left" alt="Coding" width="550" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/Assets/DH-L.png">
+<img align="left" alt="Coding" width="250" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/Assets/DH-T.png">
+<img align="left" alt="Coding" width="150" src="https://github.com/Dev-Mriganka/Deccan-Herald/blob/main/Assets/DH-M.png">
 
 
 

@@ -122,17 +122,17 @@ a {
   height: 150px;
 }
 
-.title-div > p {
+.title-div>p {
   font-size: 14px;
   text-align: left;
 }
 
-.title-div2 > p {
+.title-div2>p {
   font-size: 14px;
   text-align: left;
 }
 
-.title-div > h6 {
+.title-div>h6 {
   padding: 0px;
   margin: 0px;
   font-size: 14px;
@@ -165,7 +165,7 @@ a {
   margin: auto;
 }
 
-.title-one-div > a {
+.title-one-div>a {
   color: #aba12b;
 }
 
@@ -187,11 +187,11 @@ a {
   left: 38px;
 }
 
-.a-tag > a {
+.a-tag>a {
   color: #0d70b9;
 }
 
-.vid-a-tag > a {
+.vid-a-tag>a {
   color: black;
 }
 
@@ -204,13 +204,13 @@ a {
   position: absolute;
 }
 
-.crouser > img {
+.crouser>img {
   /* border: 3px solid red; */
   height: 400px;
   width: 400px;
 }
 
-.crouser > button {
+.crouser>button {
   width: 50px;
   height: 50px;
   /* border: 1px solid red; */
@@ -221,12 +221,12 @@ a {
   font-size: 35px;
 }
 
-.crouser > button:nth-child(3) {
+.crouser>button:nth-child(3) {
   left: 0px;
   border: 1px solid red;
 }
 
-.crouser > button:nth-child(4) {
+.crouser>button:nth-child(4) {
   left: 290px;
 }
 
@@ -244,10 +244,10 @@ h6 {
 
 a:hover {
   text-decoration: underline;
-  background-color: white;
-  color: black;
-  border: 2px solid green;
-  padding: 10px 20px;
+  /* background-color: white; */
+  /* color: black; */
+  /* border: 2px solid green; */
+  /* padding: 10px 20px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -265,7 +265,7 @@ img:hover {
   background-color: white;
   color: black;
   border: 2px solid green;
-  padding: 10px 20px;
+  /* padding: 10px 20px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;

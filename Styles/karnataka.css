@@ -80,7 +80,7 @@ a {
   align-items: center;
 }
 
-.heading-tab > a {
+.heading-tab>a {
   display: flex;
   /* border: 1px solid red; */
   width: 150px;
@@ -88,7 +88,7 @@ a {
   font-weight: 700;
 }
 
-.heading-tab > a > p {
+.heading-tab>a>p {
   border-top: 8px solid #68a923;
   width: 25px;
   height: 30px;
@@ -125,7 +125,7 @@ a {
   align-items: center;
 }
 
-.img > img {
+.img>img {
   /* border: 1px solid red; */
   width: 130px;
 }
@@ -146,7 +146,7 @@ a {
   background-color: #ffffff;
 }
 
-.stories-card-four > div > h4 {
+.stories-card-four>div>h4 {
   /* border: 1px solid red; */
   /* margin: auto; */
   display: flex;
@@ -201,13 +201,13 @@ a {
   align-items: center;
 }
 
-.p-card-one > div > h4 {
+.p-card-one>div>h4 {
   /* border: 1px solid red; */
   width: 400px;
   font-size: 35px;
 }
 
-.p-card-one > div > p {
+.p-card-one>div>p {
   margin-top: -25px;
 }
 
@@ -218,7 +218,7 @@ a {
   justify-content: space-between;
 }
 
-.p-card-two > div {
+.p-card-two>div {
   /* border: 1px solid red; */
   display: flex;
   flex-direction: row;
@@ -226,13 +226,13 @@ a {
   height: 220px;
 }
 
-.p-card-two > div > img {
+.p-card-two>div>img {
   /* border: 1px solid red; */
   width: 250px;
   margin-right: 15px;
 }
 
-.p-card-three > .heading-card > .title {
+.p-card-three>.heading-card>.title {
   /* border: 1px solid red; */
   margin-left: 25px;
 }
@@ -257,7 +257,7 @@ a {
   align-items: center;
 }
 
-.box1 > div {
+.box1>div {
   /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
@@ -266,13 +266,13 @@ a {
   width: 40%;
 }
 
-.box1 > img {
+.box1>img {
   /* border: 1px solid red; */
   width: 60%;
   height: 490px;
 }
 
-.box1 > div > p {
+.box1>div>p {
   /* border: 1px solid red; */
   padding-left: 50px;
   margin-top: 0px;
@@ -296,13 +296,13 @@ a {
   font-style: normal;
 }
 
-.box2 > img {
+.box2>img {
   /* border: 1px solid red; */
   width: 100%;
   height: 360px;
 }
 
-.box2 > h4 {
+.box2>h4 {
   /* border: 1px solid red; */
   font-size: 25px;
   height: 80px;
@@ -321,14 +321,14 @@ a {
   padding: 5px;
 }
 
-.box3 > img {
+.box3>img {
   border-bottom: 6px solid #68a923;
 
   width: 342px;
   height: 200px;
 }
 
-.box3 > h4 {
+.box3>h4 {
   /* border: 1px solid red; */
   text-align: justify;
   height: 80px;
@@ -345,14 +345,14 @@ a {
   padding: 5px;
 }
 
-.box4 > img {
+.box4>img {
   border-bottom: 6px solid #68a923;
 
   width: 342px;
   height: 200px;
 }
 
-.box4 > h4 {
+.box4>h4 {
   /* border: 1px solid red; */
   text-align: justify;
   height: 80px;
@@ -369,13 +369,13 @@ a {
   padding: 5px;
 }
 
-.box5 > img {
+.box5>img {
   border-bottom: 6px solid #68a923;
   width: 342px;
   height: 200px;
 }
 
-.box5 > h4 {
+.box5>h4 {
   /* border: 1px solid red; */
   text-align: justify;
   height: 80px;
@@ -426,7 +426,7 @@ a {
   transform: translate(-50%, -50%);
 }
 
-.crime-title-div > a {
+.crime-title-div>a {
   color: green;
 }
 
@@ -444,10 +444,10 @@ h4 {
 
 a:hover {
   text-decoration: underline;
-  background-color: white;
-  color: black;
-  border: 2px solid green;
-  padding: 10px 20px;
+  /* background-color: white; */
+  /* color: black; */
+  /* border: 2px solid green; */
+  /* padding: 10px 20px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -465,7 +465,7 @@ img:hover {
   background-color: white;
   color: black;
   border: 2px solid green;
-  padding: 10px 20px;
+  /* padding: 10px 20px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;

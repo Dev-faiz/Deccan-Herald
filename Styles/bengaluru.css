@@ -62,7 +62,7 @@ a {
   align-items: center;
 }
 
-.heading-tab > a {
+.heading-tab>a {
   display: flex;
   /* border: 1px solid red; */
   width: 150px;
@@ -70,7 +70,7 @@ a {
   font-weight: 700;
 }
 
-.heading-tab > a > p {
+.heading-tab>a>p {
   border-top: 8px solid #68a923;
   width: 25px;
   /* padding: 5px; */
@@ -93,7 +93,7 @@ a {
   height: 300px;
 }
 
-.img-div > img {
+.img-div>img {
   width: 100%;
 }
 
@@ -118,12 +118,12 @@ a {
   margin: 10px auto;
 }
 
-.snippet > img {
+.snippet>img {
   /* border: 1px solid red; */
   width: 120px;
 }
 
-.snippet > h4 {
+.snippet>h4 {
   /* border: 1px solid red; */
   width: 80%;
   height: 70px;
@@ -165,14 +165,14 @@ a {
   padding: 0px 8px;
 }
 
-.container-two > h4 {
+.container-two>h4 {
   /* border: 1px solid red; */
   height: 50px;
   padding: 5px;
   position: relative;
 }
 
-.container-two > h4::before {
+.container-two>h4::before {
   position: absolute;
   content: "";
   background: #68a923;
@@ -207,12 +207,12 @@ a {
   align-items: center;
 }
 
-.card-2 > div > img {
+.card-2>div>img {
   /* border: 1px solid red; */
   width: 120px;
 }
 
-.card-2 > div > h4 {
+.card-2>div>h4 {
   /* border: 1px solid red; */
   height: 65px;
   width: 250px;
@@ -260,7 +260,7 @@ a {
   transform: translate(-50%, -50%);
 }
 
-.crime-title-div > a {
+.crime-title-div>a {
   color: green;
 }
 
@@ -296,7 +296,7 @@ a {
   padding: 0px 50px;
 }
 
-.one > div {
+.one>div {
   /* border: 1px solid red; */
   background-color: #68a923;
   height: 270px;
@@ -319,7 +319,7 @@ a {
   font-style: normal;
 }
 
-.two > h4 {
+.two>h4 {
   /* border: 1px solid red; */
   /* align-items: center; */
   /* justify-content: center; */
@@ -328,15 +328,15 @@ a {
   /* font-family: 'Source Sans Pro', sans-serif; */
 }
 
-.title + p {
+.title+p {
   /* border: 1px solid red; */
   padding-left: 50px;
   margin-top: -50px;
 }
 
-.three > img,
-.four > img,
-.five > img {
+.three>img,
+.four>img,
+.five>img {
   /* border: 1px solid red; */
   width: 100%;
 }
@@ -380,7 +380,7 @@ a {
   background-color: #68a923;
 }
 
-.box-1 > img {
+.box-1>img {
   height: 350px;
   /* width: 50px; */
   display: flex;
@@ -394,7 +394,7 @@ a {
   height: 350px;
 }
 
-.box-2 > h4 {
+.box-2>h4 {
   /* border: 1px solid red; */
   width: 350px;
   font-size: 35px;
@@ -437,10 +437,10 @@ h4 {
 
 a:hover {
   text-decoration: underline;
-  background-color: white;
-  color: black;
-  border: 2px solid green;
-  padding: 10px 20px;
+  /* background-color: white; */
+  /* color: black; */
+  /* border: 2px solid green; */
+  /* padding: 10px 20px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -458,7 +458,7 @@ img:hover {
   background-color: white;
   color: black;
   border: 2px solid green;
-  padding: 10px 20px;
+  /* padding: 10px 20px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;
