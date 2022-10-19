@@ -24,9 +24,9 @@
 
 
 ### Features 
-
+- Data appeared at dom with using DOM manipulation.
 - News exploration with reponsive UI.
-- User registration functionality.
+- User registration functionality and form validation.
 - categorized news sections as per user requirement.
 
 ### Team 
